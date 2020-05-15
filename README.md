@@ -12,7 +12,8 @@ gives you the link to this page
 reloads an extension (don't worry about this one this is an Alex thing)
 
 ## Twice Commands
-
+### []tzuyu, []tzuwu, []hot, []tzuyupic
+gives you a pic of a very special someone
 
 ### Markdown
 
