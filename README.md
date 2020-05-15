@@ -1,9 +1,12 @@
-# Welcome to the help page for ugh!
-Prefix is []
-ex. []help
+# Welcome to the ratchet github page for ugh!
+This bot, one of Alex's random side projects, is developed in Python because Python is friendly. You can add this bot with this link https://discord.com/api/oauth2/authorize?client_id=540661104037330973&permissions=66321472&scope=bot.
+## Here are some general tips
+The default prefix is []. For example, you can use []help to get the link to this page.
 
 ## General Commands
-### []help
+### []greet, []hello, []hi, or []hey
+say hi to the bot :D
+### []help or []commands
 gives you the link to this page
 
 ### Markdown
