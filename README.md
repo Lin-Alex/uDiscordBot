@@ -1,6 +1,6 @@
 # Welcome to the ratchet github page for ugh!
 This bot, one of Alex's random side projects, is developed in Python because Python is friendly. 
-You can add this bot with this link: [Link] (https://discord.com/api/oauth2/authorize?client_id=540661104037330973&permissions=66321472&scope=bot).
+You can add this bot with this link: https://discord.com/api/oauth2/authorize?client_id=540661104037330973&permissions=66321472&scope=bot .
 ## Here are some general tips
 The default prefix is []. For example, you can use []help to get the link to this page. Also you can't change the prefix because I'm lazy.
 
